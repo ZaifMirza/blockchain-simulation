@@ -15,7 +15,7 @@ including:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/blockchain-simulation.git
+   git clone https://github.com/ZaifMirza/blockchain-simulation.git
    cd blockchain-simulation
    ```
 
